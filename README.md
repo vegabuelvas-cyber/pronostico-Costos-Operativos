@@ -31,6 +31,15 @@ Pronostico de costos de dos equipos operacionales y diseñó de un agente de IA 
 - ChatGPT (LLM)
 - RAG (Retrieval-Augmented Generation)
 
+## Estructura del repositorio:
+
+- Summary_Gestion_Costos_Operativos.pdf      --> Documento base de conocimiento para el agente.
+- Gestion_Costos_Operativos.ipynb            --> Desarrollo del análisis y pronosticos.
+- Arquitectura_Azure_Gestion_Costos.pdf      --> Arquitectura cloud propuesta.
+- Arquitectura_Azure_Gestion_Costos.drawio   --> Arquitectura cloud propuesta (Archivo drawio).
+- Agente_IA_Pronostico_Costos.pdf            --> Descripción del agente conversacional desarrollado.
+
+
 ## Autor:
 
 Wilfredo Vega Buelvas
