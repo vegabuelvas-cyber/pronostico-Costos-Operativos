@@ -9,7 +9,7 @@ Pronostico de costos de dos equipos operacionales y diseñó de un agente de IA 
 
 - Análisis exploratorio de datos.
 - Selección de variables.
--  Modelos de forecasting (ARIMA).
+- Modelos de forecasting (ARIMA).
 - Modelos de regresión lineal multiple para estimación de costos.
 - Arquitectura Cloud propuesta en Microsoft Azure.
 - Agente de IA con capacidades RAG.
@@ -33,7 +33,7 @@ Pronostico de costos de dos equipos operacionales y diseñó de un agente de IA 
 
 ## Estructura del repositorio:
 
-- Summary_Gestion_Costos_Operativos.pdf      --> Documento base de conocimiento para el agente.
+- _Summary_Gestion_Costos_Operativos.pdf     --> Documento base de conocimiento para el agente.
 - Gestion_Costos_Operativos.ipynb            --> Desarrollo del análisis y pronosticos.
 - Arquitectura_Azure_Gestion_Costos.pdf      --> Arquitectura cloud propuesta.
 - Arquitectura_Azure_Gestion_Costos.drawio   --> Arquitectura cloud propuesta (Archivo drawio).
