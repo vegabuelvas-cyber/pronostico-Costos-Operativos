@@ -3,7 +3,7 @@ Caso de negocio de Pronostico de Costos Operativos e IA
 
 ## Objetivo:
 
-Desarrollar modelos predictivos para pronosticar los costos de dos equipos operacionales. Adicional se diseñó un agente de IA capaz de responder preguntas sobre los resultados obtenidos e incorporar información externa de mercado.
+Pronostico de costos de dos equipos operacionales y diseñó de un agente de IA para responder preguntas sobre los resultados obtenidos e incorporar información externa de mercado.
 
 ## Alcance del caso:
 
