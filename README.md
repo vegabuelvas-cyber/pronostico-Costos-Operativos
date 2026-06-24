@@ -25,12 +25,7 @@ Desarrollar modelos predictivos para pronosticar los costos de dos equipos opera
 
 ## Tecnologías Utilizadas:
 
-- Python
-- Pandas
-- Scikit-Learn
-- Statsmodels
-- Microsoft Azure
-- Azure Machine Learning
+- Google Colab (Pandas/Scikit-Learn/Statsmodels)
 - Make AI Agents
 - ChatGPT (LLM)
 - RAG (Retrieval-Augmented Generation)
