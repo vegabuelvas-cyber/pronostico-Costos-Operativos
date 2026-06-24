@@ -26,6 +26,7 @@ Pronostico de costos de dos equipos operacionales y diseñó de un agente de IA 
 ## Tecnologías Utilizadas:
 
 - Google Colab (Pandas/Scikit-Learn/Statsmodels)
+- Draw.io
 - Make AI Agents
 - ChatGPT (LLM)
 - RAG (Retrieval-Augmented Generation)
